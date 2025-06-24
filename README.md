@@ -7,7 +7,7 @@ A simple and efficient attendance system that uses face recognition to mark atte
 - Real-time attendance marking
 - Easy student registration
 - Daily attendance reports
-- Download attendance in CSV formats
+- Download attendance in CSV format
 
 ## Installation Steps
 
